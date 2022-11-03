@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        // p = pear; a = apple; t = tomato; b = banana; e = eggplant
         int p,a,t,b,e;
         double pPrice = 2.14 , aPrice = 3.67 , tPrice = 1.11 , bPrice = 0.95 , ePrice = 5.00;
         Scanner input = new Scanner(System.in);
